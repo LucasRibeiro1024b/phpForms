@@ -1,0 +1,16 @@
+{
+    "name": "ribeiro/phpforms",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ribeiro\\Phpforms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ribeiro Lucas"
+        }
+    ],
+    "require": {}
+}
